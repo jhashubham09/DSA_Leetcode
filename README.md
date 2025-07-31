@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/jhashubham09/DSA_Leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/jhashubham09/DSA_Leetcode/tree/master/0455-assign-cookies) |
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/jhashubham09/DSA_Leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/jhashubham09/DSA_Leetcode/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
