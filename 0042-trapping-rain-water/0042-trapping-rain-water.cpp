@@ -5,7 +5,7 @@ public:
 
         vector<int> lmax(n, 0);
         vector<int> rmax(n, 0);
-        int ans = 0;
+        
 
         lmax[0] = height[0];
         rmax[n-1] = height[n-1];
@@ -18,6 +18,7 @@ public:
             rmax[i] = max(height[i], rmax[i+1]);
         }
 
+        int ans = 0;
         for(int i = 0; i < n; i++){
          ans = ans + (min(lmax[i], rmax[i]) - height[i]);
         }
