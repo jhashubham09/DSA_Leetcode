@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/jhashubham09/DSA_Leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/jhashubham09/DSA_Leetcode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/jhashubham09/DSA_Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/jhashubham09/DSA_Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0890-lemonade-change](https://github.com/jhashubham09/DSA_Leetcode/tree/master/0890-lemonade-change) |
 ## Two Pointers
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/jhashubham09/DSA_Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/jhashubham09/DSA_Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/jhashubham09/DSA_Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/jhashubham09/DSA_Leetcode/tree/master/0503-next-greater-element-ii) |
 ## Tree
 |  |
 | ------- |
@@ -99,4 +101,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/jhashubham09/DSA_Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/jhashubham09/DSA_Leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
