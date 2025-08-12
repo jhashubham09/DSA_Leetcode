@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0283-move-zeroes](https://github.com/jhashubham09/DSA_Leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/jhashubham09/DSA_Leetcode/tree/master/0455-assign-cookies) |
+| [0496-next-greater-element-i](https://github.com/jhashubham09/DSA_Leetcode/tree/master/0496-next-greater-element-i) |
 | [0890-lemonade-change](https://github.com/jhashubham09/DSA_Leetcode/tree/master/0890-lemonade-change) |
 ## Two Pointers
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/jhashubham09/DSA_Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/jhashubham09/DSA_Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/jhashubham09/DSA_Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0496-next-greater-element-i](https://github.com/jhashubham09/DSA_Leetcode/tree/master/0496-next-greater-element-i) |
 ## Tree
 |  |
 | ------- |
@@ -89,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jhashubham09/DSA_Leetcode/tree/master/0020-valid-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/jhashubham09/DSA_Leetcode/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/jhashubham09/DSA_Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
