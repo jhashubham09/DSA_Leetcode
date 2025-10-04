@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/jhashubham09/DSA_Leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/jhashubham09/DSA_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/jhashubham09/DSA_Leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/jhashubham09/DSA_Leetcode/tree/master/0455-assign-cookies) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/jhashubham09/DSA_Leetcode/tree/master/0035-search-insert-position) |
 | [0783-search-in-a-binary-search-tree](https://github.com/jhashubham09/DSA_Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1046-max-consecutive-ones-iii](https://github.com/jhashubham09/DSA_Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Design
